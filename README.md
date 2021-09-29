@@ -24,4 +24,4 @@ https://jackson-barker.github.io/Work-Day-Scheduler/
 
 # Screen Shot
 
-![Work Day Scheduler SS]()
+![Work Day Scheduler SS](./assets/work-daySS.png)
